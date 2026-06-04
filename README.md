@@ -1,18 +1,28 @@
-<h1 align="center">Hi 👋, I'm Kunal Waybhase</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunalwaybhase&color=blueviolet&style=flat-square" alt="Kunal's Profile Views" />
-</p>
-
-<h3 align="center">🛡️ Cybersecurity Student & Developer</h3>
-<p align="center">
-  <em>Passionate and detail-oriented Cybersecurity student with a strong foundation in networking, threat analysis, and security tools. Certified through the Google Cybersecurity Professional Certificate and Cisco Introduction to Cybersecurity.</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/kunal-waybhase" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<!-- HEADER SECTION (Matches image_40b51a.png layout) -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Left Column: Big Live Hacker Animation -->
+    <td align="left" valign="top" width="40%">
+      <img src="https://media.giphy.com/media/V4NSR1NG2UL0qmKZMc/giphy.gif" alt="Cybersecurity Animation" width="100%" style="max-width: 350px; border-radius: 10px;" />
+    </td>
+    <!-- Right Column: Personal Text Intro -->
+    <td align="right" valign="middle" width="60%">
+      <h1>Hi 👋, I'm Kunal Waybhase</h1>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=kunalwaybhase&color=0077B5&style=flat-square" alt="Profile Views" />
+      </p>
+      <h3>🛡️ Cybersecurity Student & Developer</h3>
+      <p>
+        <em>Passionate and detail-oriented Cybersecurity student with a strong foundation in networking, threat analysis, and security tools. Certified through the Google Cybersecurity Professional Certificate and Cisco Introduction to Cybersecurity.</em>
+      </p>
+      <p>
+        <a href="https://linkedin.com/in/kunal-waybhase" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,7 +80,8 @@
 
 ## 📊 GitHub Analytics
 
+<!-- Fixed Analytics rendering using an optimized dark theme setup -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalwaybhase&show_icons=true&theme=radial&locale=en" alt="Kunal's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalwaybhase&show_icons=true&locale=en&layout=compact&theme=radial" alt="Kunal's Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalwaybhase&show_icons=true&theme=tokyonight&locale=en" alt="Kunal's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalwaybhase&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Kunal's Top Languages" height="150" />
 </p>
